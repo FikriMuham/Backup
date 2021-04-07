@@ -1,0 +1,32 @@
+.box{
+    margin: 150px auto;
+    height: 300px;
+    width: 600px;
+}
+.atas{
+    height: 50px;
+    width: 600px;
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
+.kiri{
+    height: 250px;
+    width: 200px;
+    float: left;
+    background-color: gray;
+}
+.gambar{
+    background-image: url(habibie.jpg);
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    border-top: 10%;
+}
+.kanan{
+    width: 400px;
+    height: 250px;
+    background-color: gray;
+    float: right;
+}
